@@ -1,4 +1,4 @@
-![Landing page](https://github.com/Ahmed900Wael/edhub/?raw=true)
+![Landing page](https://github.com/Ahmed900Wael/edhub/landing.png?raw=true)
 # Eduhub - manage your education with ease
 A platform built to help mid-level teachers afford their online teaching careers and aims at helping them start their own business.
 
